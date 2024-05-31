@@ -1,6 +1,6 @@
 # CredHunter
 
-CredHunter is a command-line tool designed to quickly search for potentially sensitive credentails within a list of URLs. It helps security professionals and developers identify URLs that may contain credentials, API keys, or other sensitive information, facilitating proactive security measures and risk mitigation.
+CredHunter is a command-line tool designed to aid penetration testers in quickly identifying potential security risks by searching for sensitive keywords within a list of URLs. It assists in uncovering URLs that may contain credentials, API keys, or other sensitive information, enabling penetration testers to perform thorough security assessments and identify potential attack vectors.
 
 ## Features:
 
