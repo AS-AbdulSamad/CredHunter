@@ -12,7 +12,7 @@ CredHunter is a command-line tool designed to aid penetration testers in quickly
 ## Usage:
 
 * Create a text file containing a list of URLs.
-* Run the CredHunter.py script with the path to the URL file as an argument. Example: Python3 CredHunter.py urls.txt
+* Run the CredHunter.py script with the path to the URL file as an argument. Example: `Python3 CredHunter.py urls.txt`
 * View the matched URLs grouped by keyword.
 
 ## Sample
