@@ -17,7 +17,7 @@ CredHunter is a command-line tool designed to quickly search for potentially sen
 
 ## Sample
 
-![image](https://github.com/AS-AbdulSamad/CredHunter/assets/116205223/b931d1fb-bbb2-4789-bbc5-5ea2f8352b6d)
+![image](https://github.com/AS-AbdulSamad/CredHunter/assets/116205223/36ff18f0-70a1-4c07-a59f-26a68b825447)
 
 ## Disclaimer:
 
